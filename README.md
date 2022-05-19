@@ -1,2 +1,2 @@
-# python Basic with Data Science
+# python Capstone with Data Science
 
